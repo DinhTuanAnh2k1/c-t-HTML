@@ -64,17 +64,11 @@ tr:hover {
 }
 
 .btn-success {
-    background-color: #46A137;
-}
-
-.btn-warning {
-    background-color: #F6B400;
+    background-color: #168CFF;
+    color: white;
 }
 
 .btn-danger {
     background-color: #DC3D30;
-}
-
-.btn-info {
-    background-color: #168CFF;
+    color: white;
 }
